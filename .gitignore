@@ -62,3 +62,4 @@ typings/
 
 # dist and cache folder
 dist/
+.cache/
